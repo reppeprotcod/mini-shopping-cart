@@ -1,0 +1,27 @@
+header{
+    display: flex;
+    justify-content: space-around;
+}
+
+.card{
+    border: 1px solid rgb(120, 120, 120);
+    padding: 20px;
+    width: 200px;
+}
+
+.cart{
+    margin-top: 10px;
+    border-top: 1px solid rgb(120, 120, 120);
+    display: flex;
+    justify-content: center;
+}
+
+.product{
+    border: 1px solid rgb(120, 120, 120);
+    width: 200px;
+}
+
+.cart div{
+    text-align: center;
+}
+
